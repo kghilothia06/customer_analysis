@@ -4,3 +4,5 @@ In dataset, each row represents a customer and his activity (how many phone conv
 data preprocessing & visualization complete!
 
 train-validation split performed
+
+random-forest classifier trained
