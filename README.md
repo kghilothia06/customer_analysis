@@ -5,4 +5,6 @@ data preprocessing & visualization complete!
 
 train-validation split performed
 
-random-forest classifier trained
+random-forest classifier trained (75% accuracy)
+
+Neural Network implemented (68% accuracy)
