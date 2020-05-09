@@ -14,3 +14,5 @@ ensemble-learning implemented (68% accuracy)
 In second dataset, it tracks each user's activity over a period of 8 days and eventually does he buy the product or not
 
 LSTM network built for CAR with 69% accuracy having 3 LSTM layers
+
+LSTM network built by combining static info of customer with his sequential interaction. 75% accuracy achieved!
