@@ -11,6 +11,8 @@ Neural Network implemented (68% accuracy)
 
 ensemble-learning implemented (68% accuracy)
 
+grid search for svm implemented (70% accuracy)
+
 In second dataset, it tracks each user's activity over a period of 8 days and eventually does he buy the product or not
 
 LSTM network built for CAR with 69% accuracy having 3 LSTM layers
