@@ -18,3 +18,5 @@ In second dataset, it tracks each user's activity over a period of 8 days and ev
 LSTM network built for CAR with 69% accuracy having 3 LSTM layers
 
 LSTM network built by combining static info of customer with his sequential interaction. 75% accuracy achieved!
+
+plotted cumulative gain curve for model_building_NN.ipynb with activation funtion as sigmoid (70% accuracy)
